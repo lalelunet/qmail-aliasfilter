@@ -1,3 +1,6 @@
+# Moved to gitlab
+Please go to: https://gitlab.com/lalelunet/qmail-aliasfilter
+
 # 'qmail-aliasfilter' is a smart filter script for all qmail lovers.
 
 It filters aliases by the domain part of the senders email address,
